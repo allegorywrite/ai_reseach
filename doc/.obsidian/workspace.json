@@ -27,12 +27,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "issue/consensus_CBF_solved.md",
+                "file": "theory/visual_cone_intersection_mpc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "consensus_CBF_solved"
+              "title": "visual_cone_intersection_mpc"
+            }
+          },
+          {
+            "id": "1bf13fcee3eea5a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surveys/task_3/request.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "request"
+            }
+          },
+          {
+            "id": "c5dda23898dd61c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "theory/ccbf_theory_summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ccbf_theory_summary"
+            }
+          },
+          {
+            "id": "9ca0e023001584eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "theory/drone_dynamics_mpc_ccbf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "drone_dynamics_mpc_ccbf"
+            }
+          },
+          {
+            "id": "791405dd0b9ca2f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "issue/SE(3)上のCCBFを用いた最適化について.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SE(3)上のCCBFを用いた最適化について"
+            }
+          },
+          {
+            "id": "1cc4e8c13e8f4979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surveys/task_5/request.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "request"
+            }
+          },
+          {
+            "id": "3c885100f5a2785c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surveys/task_4/request.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "request"
+            }
+          },
+          {
+            "id": "0f5faf7f58bf5666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surveys/task_4/answer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "answer"
             }
           },
           {
@@ -50,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -107,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 391.5
   },
   "right": {
     "id": "6618ebff36844a1b",
@@ -197,32 +295,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97f5fffbbe7dab7f",
+  "active": "0f5faf7f58bf5666",
   "lastOpenFiles": [
+    "issue/ドローンを対象としたLQRやMPCの実装について_solved.md",
+    "issue/SE(3)上のCCBFを用いた最適化について_solved.md",
+    "theory/drone_implementation_hierarchy.md",
+    "theory/se3_ccbf_optimization.md",
+    "surveys/task_4/request.md",
+    "surveys/task_4/answer.md",
+    "surveys/task_5/answer.md",
+    "surveys/task_5/request.md",
+    "issue/ドローンを対象としたLQRやMPCの実装について.md",
+    "issue/ドローンを対象としたLQRやMPCの実装について_hold.md",
+    "issue/SE(3)上のCCBFを用いた最適化について_hold.md",
+    "surveys/task_5",
+    "surveys/task_4",
+    "theory/drone_dynamics_mpc_ccbf.md",
     "issue/consensus_CBF_summary.md",
+    "issue/mpcにおけるドローンダイナミクスについて_solved.md",
+    "issue/SE(3)上のCCBFを用いた最適化について.md",
+    "theory/control_barrier_functions.md",
+    "theory/ccbf_theory_summary.md",
+    "issue/mpcにおけるドローンダイナミクスについて.md",
+    "研究進捗.md",
+    "研究方針.md",
     "theory/visual_cone_intersection_mpc.md",
-    "issue/consensus_CBF_solved.md",
-    "surveys/task_2/answer.md",
-    "surveys/task_2/request.md",
-    "misc/consensus_cbf_raw.md",
-    "experiment/pdf_processor.md",
+    "theory/ccbf_visual_cone_constraints_advanced.md",
+    "issue/CCBFにおける視野錐台交差制約について_solved.md",
+    "issue/CCBFにおける視野錐台交差制約について.md",
+    "issue/consensus_CBF.md",
+    "issue/material/Consensus-Based_Control_Barrier_Function_for_Swarm.pdf",
+    "surveys/task_3/answer.md",
+    "surveys/task_3",
     "misc",
     "experiment",
-    "issue/consensus_CBF_hold.md",
-    "issue/consensus_CBF.md",
-    "研究進捗.md",
     "surveys/task_2",
-    "issue/material/Consensus-Based_Control_Barrier_Function_for_Swarm.pdf",
     "issue/material/IEEE Xplore Full-Text PDF__files/stamp.html",
     "issue/material/IEEE Xplore Full-Text PDF_.html",
-    "issue/material/IEEE Xplore Full-Text PDF__files/jquery-3.5.1.min.js",
-    "issue/material/IEEE Xplore Full-Text PDF__files/fingerprint2.js",
-    "issue/material/IEEE Xplore Full-Text PDF__files/tealiumTagsData.js",
-    "issue/material/IEEE Xplore Full-Text PDF__files/fingerprint.js",
-    "theory/control_barrier_functions.md",
-    "研究方針.md",
-    "surveys/task_1/answer.md",
-    "surveys/task_1/request.md",
-    "deep_research.md"
+    "issue/material/IEEE Xplore Full-Text PDF__files/jquery-3.5.1.min.js"
   ]
 }
