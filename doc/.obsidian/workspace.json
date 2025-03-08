@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究方針.md",
+                "file": "surveys/task_2/request.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "研究方針"
+              "title": "request"
             }
           },
           {
@@ -184,13 +184,24 @@
   },
   "active": "6c07590eec876e4d",
   "lastOpenFiles": [
-    "研究進捗.md",
+    "issue/consensus_CBF_hold.md",
+    "issue/consensus_CBF.md",
+    "surveys/task_2/request.md",
+    "surveys/task_2",
+    "issue/material/Consensus-Based_Control_Barrier_Function_for_Swarm.pdf",
+    "issue/material/IEEE Xplore Full-Text PDF__files/stamp.html",
+    "issue/material/IEEE Xplore Full-Text PDF_.html",
+    "issue/material/IEEE Xplore Full-Text PDF__files/jquery-3.5.1.min.js",
+    "issue/material/IEEE Xplore Full-Text PDF__files/fingerprint2.js",
+    "issue/material/IEEE Xplore Full-Text PDF__files/tealiumTagsData.js",
+    "issue/material/IEEE Xplore Full-Text PDF__files/fingerprint.js",
+    "issue/material/IEEE Xplore Full-Text PDF__files/tealiumAnalytics.js",
+    "issue/material/IEEE Xplore Full-Text PDF__files/utag.35.js",
     "theory/control_barrier_functions.md",
-    "theory",
     "研究方針.md",
+    "研究進捗.md",
     "surveys/task_1/answer.md",
     "surveys/task_1/request.md",
-    "deep_research.md",
-    "M1032553修正分.pdf"
+    "deep_research.md"
   ]
 }

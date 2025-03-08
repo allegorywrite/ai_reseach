@@ -1,0 +1,3 @@
+surveyをみるとconsensus CBF(CCBF)についての記述があまり見られないが，この研究テーマに対してCCBFを用いることはナンセンスなのだろうか
+obsidian://open?vault=doc&file=issue%2Fmaterial%2FConsensus-Based_Control_Barrier_Function_for_Swarm.pdf (CCBFの論文)
+それとも，理論的には同一であり，わざわざCCBFを使う必要はないのであろうか．ココらへんの検討をしたい．一度サーベイする必要もありそう．

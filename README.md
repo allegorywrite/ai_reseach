@@ -14,16 +14,22 @@
 ```
 research_ws/
 ├── README.md                 # 本ファイル
+├── .gitignore                # Gitの管理対象外ファイル設定
 ├── doc/                      # ドキュメント（Obsidianワークスペース）
 │   ├── 研究方針.md            # 研究の進め方に関する方針
 │   ├── 研究進捗.md            # 研究の進捗状況
+│   ├── issue/                # 研究課題（issue）
+│   │   ├── file.md           # 課題ファイル
+│   │   ├── file_solved.md    # 解決済み課題
+│   │   ├── file_hold.md      # 保留中の課題
+│   │   └── material/         # 課題関連資料
 │   ├── theory/               # 理論研究のドキュメント
 │   │   └── control_barrier_functions.md  # CBFの理論
 │   ├── surveys/              # サーベイ関連
 │   │   └── task_{i}/         # 各サーベイタスク
 │   │       ├── request.md    # サーベイリクエスト
 │   │       ├── answer.md     # サーベイ結果
-│   │       └── materials/    # 参考資料
+│   │       └── materials/    # 参考資料（gitignore対象）
 │   └── experiment/           # 実験に関するドキュメント
 └── src/                      # ソースコード
     ├── experiment/           # 理論検証用Python実装
@@ -37,6 +43,14 @@ research_ws/
 1. **サーベイ** → 2. **理論研究** → 3. **実装（理論検証）** → 4. **実装（本番）**
 
 理論研究や実装の過程で必要に応じて適宜サーベイに戻ることもあります。
+
+研究作業は以下の手順で行います：
+
+1. `doc/issue/` 内の未解決の課題を確認して取り組む
+2. 課題の解決を試み、解決できたものは `file_solved.md`、保留にするものは `file_hold.md` とする
+3. 研究進捗に基づいて研究を進める
+4. 研究結果に基づいて適宜README.mdを修正する
+5. 研究進捗を追記する
 
 ### サーベイ
 

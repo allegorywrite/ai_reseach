@@ -1,5 +1,6 @@
 # 重いデータを含むディレクトリ
 doc/surveys/*/materials/
+doc/issue/materials/
 
 # Python関連
 __pycache__/
