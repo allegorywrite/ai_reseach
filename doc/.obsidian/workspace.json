@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "surveys/task_2/answer.md",
+                "file": "issue/consensus_CBF_solved.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "answer"
+              "title": "consensus_CBF_solved"
             }
           },
           {
@@ -199,11 +199,13 @@
   },
   "active": "97f5fffbbe7dab7f",
   "lastOpenFiles": [
-    "surveys/task_2/request.md",
+    "issue/consensus_CBF_summary.md",
+    "theory/visual_cone_intersection_mpc.md",
+    "issue/consensus_CBF_solved.md",
     "surveys/task_2/answer.md",
+    "surveys/task_2/request.md",
     "misc/consensus_cbf_raw.md",
     "experiment/pdf_processor.md",
-    "issue/consensus_CBF_summary.md",
     "misc",
     "experiment",
     "issue/consensus_CBF_hold.md",
